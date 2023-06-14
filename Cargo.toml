@@ -1,0 +1,11 @@
+[package]
+name = "ponggame"
+authors = [ "Hieu Vu <hv5@pdx.edu" ]
+
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+nannou = "0.18.1"
+rand = "0.8.5"
